@@ -2,6 +2,6 @@ Module:
   Name: "Introduction"
 
 Skills:
-  - phrases.yaml
+  - basicsentences.yaml
   - adjectives.yaml
   - preferences.yaml
